@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/willi/Desktop/Projeto/horarios-urbanos/horarios-urbanos/database/migrations/2017_06_01_015828_create_empresas_table.php</file>
-            <file>file:/C:/Users/willi/Desktop/Projeto/horarios-urbanos/horarios-urbanos/database/migrations/2014_10_12_000000_create_users_table.php</file>
-            <file>file:/C:/Users/willi/Desktop/Projeto/horarios-urbanos/horarios-urbanos/database/migrations/2017_06_01_021708_create_horarios_table.php</file>
-            <file>file:/C:/Users/willi/Desktop/Projeto/horarios-urbanos/horarios-urbanos/app/Empresas.php</file>
-            <file>file:/C:/Users/willi/Desktop/Projeto/horarios-urbanos/horarios-urbanos/config/database.php</file>
-            <file>file:/C:/Users/willi/Desktop/Projeto/horarios-urbanos/horarios-urbanos/database/migrations/2017_06_01_021622_create_linhas_table.php</file>
-            <file>file:/C:/Users/willi/Desktop/Projeto/horarios-urbanos/horarios-urbanos/database/migrations/2014_10_12_100000_create_password_resets_table.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

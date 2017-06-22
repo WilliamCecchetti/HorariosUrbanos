@@ -15,14 +15,11 @@ class CreateHorariosTable extends Migration
     {
         Schema::create('horarios', function (Blueprint $table) {
             $table->increments('id');
-            $table->integer('id_hora'); 
-            $table->integer('id_rota'); 
-            $table->integer('id_dia'); 
-            $table->integer('hora1'); 
-            $table->integer('hora2'); 
-            $table->integer('hora3'); 
-            $table->integer('hora4'); 
             $table->timestamps();
+            $table->string('link');
+            $table->integer('id_linha')->unsigned();
+            $table->foreign('id_linha')->references('id')->on('linhas');
+            $table->integer('tipo');
         });
     }
 
